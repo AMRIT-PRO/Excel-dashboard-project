@@ -11,5 +11,4 @@ This is a beginner Excel dashboard project created using Microsoft Excel.
 ## Tools Used
 - Microsoft Excel
   
-
-Created by Amrit
+![Dashboard](Dashboard-Screenshot.png)
